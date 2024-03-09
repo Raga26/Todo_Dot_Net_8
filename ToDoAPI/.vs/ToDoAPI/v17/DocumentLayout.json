@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M.Ragamaliga\\source\\repos\\Todo_Dot_Net_8\\ToDoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEA982A-369D-4C91-BC0E-CDA8E972AD78}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\m.ragamaliga\\source\\repos\\todo_dot_net_8\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEA982A-369D-4C91-BC0E-CDA8E972AD78}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEA982A-369D-4C91-BC0E-CDA8E972AD78}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\m.ragamaliga\\source\\repos\\todo_dot_net_8\\todoapi\\todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEA982A-369D-4C91-BC0E-CDA8E972AD78}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEA982A-369D-4C91-BC0E-CDA8E972AD78}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\m.ragamaliga\\source\\repos\\todo_dot_net_8\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADEA982A-369D-4C91-BC0E-CDA8E972AD78}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEA982A-369D-4C91-BC0E-CDA8E972AD78}|ToDoAPI\\ToDoAPI.csproj|c:\\users\\m.ragamaliga\\source\\repos\\todo_dot_net_8\\todoapi\\todoapi\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEA982A-369D-4C91-BC0E-CDA8E972AD78}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoDb.cs",
+              "DocumentMoniker": "C:\\Users\\M.Ragamaliga\\source\\repos\\Todo_Dot_Net_8\\ToDoAPI\\ToDoAPI\\TodoDb.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\TodoDb.cs",
+              "ToolTip": "C:\\Users\\M.Ragamaliga\\source\\repos\\Todo_Dot_Net_8\\ToDoAPI\\ToDoAPI\\TodoDb.cs",
+              "RelativeToolTip": "ToDoAPI\\TodoDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T05:42:23.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\M.Ragamaliga\\source\\repos\\Todo_Dot_Net_8\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+              "RelativeDocumentMoniker": "ToDoAPI\\ToDoAPI.csproj",
+              "ToolTip": "C:\\Users\\M.Ragamaliga\\source\\repos\\Todo_Dot_Net_8\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+              "RelativeToolTip": "ToDoAPI\\ToDoAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T05:32:50.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\M.Ragamaliga\\source\\repos\\Todo_Dot_Net_8\\ToDoAPI\\ToDoAPI\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\M.Ragamaliga\\source\\repos\\Todo_Dot_Net_8\\ToDoAPI\\ToDoAPI\\TodoItem.cs",
+              "RelativeToolTip": "ToDoAPI\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T05:30:21.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M.Ragamaliga\\source\\repos\\Todo_Dot_Net_8\\ToDoAPI\\ToDoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\M.Ragamaliga\\source\\repos\\Todo_Dot_Net_8\\ToDoAPI\\ToDoAPI\\Program.cs",
+              "RelativeToolTip": "ToDoAPI\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T05:28:19.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
